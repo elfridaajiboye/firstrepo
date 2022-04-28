@@ -1,0 +1,14 @@
+/* 
+.hide {
+    display: none;
+}
+
+.event:hover + .hide {
+    display:block;
+    color:blue;
+} */
+
+.hideP {
+    visibility: hidden;
+    color: blue;
+}
